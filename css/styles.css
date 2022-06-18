@@ -73,7 +73,7 @@ width:300px;
     text-align: center;
 }
 #footer{
-    background-color: #888888;
+    background-color:white;
     padding: 3% 10%;
     text-align: center;
     color: #fff;
@@ -93,7 +93,7 @@ width:300px;
     color: #25D366;
 }
 .icon3{
-    color: #171515;
+    color: black;
 }
 .icon:hover{
     color: #00b3b3;
