@@ -85,6 +85,28 @@ width:300px;
 .social-media{
     margin: 20px 10px;
 }
-.social-media:hover{
-    background-color:lightgray;
+
+.icon{
+    color:  #0077B5;
+}
+.icon2{
+    color: #25D366;
+}
+.icon3{
+    color: #171515;
+}
+.icon:hover{
+    color: #00b3b3;
+}
+.icon1:hover{
+    color: darkgray;
+}
+.icon2:hover{
+    color: darkgreen;
+}
+.icon3:hover{
+    color: darkgray;
+}
+.footer-h1{
+    font-weight: bolder;
 }
